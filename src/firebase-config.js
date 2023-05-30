@@ -10,13 +10,14 @@ import { initializeApp } from "firebase/app";
 
 
 const config = {
-  /* TODO: ADD YOUR FIREBASE CONFIGURATION OBJECT HERE */
+  /* TODO: ADD YOUR FIREBASE CONFIGURATION OBJECT HERE 
   apiKey: "AIzaSyBWwCfb0Wg4AOHYBM26IjTwxbxJ5iI5pTc",
   authDomain: "friendlychat-79704.firebaseapp.com",
   projectId: "friendlychat-79704",
   storageBucket: "friendlychat-79704.appspot.com",
   messagingSenderId: "912448046381",
   appId: "1:912448046381:web:3ca7f5042b54b94ec2ffa4"
+  */
 };
 
 export function getFirebaseConfig() {
