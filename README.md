@@ -3,6 +3,11 @@ This is a chat application built using Firebase. It allows users to communicate 
 
 https://friendlychat-79704.firebaseapp.com/
 
+
+
+https://github.com/shagunZ/FriendlyChatfirebase/assets/100477248/c6cf2d9a-902b-42f6-89a4-ce53de121679
+
+
 # Features
 -Real-time messaging: Users can send and receive messages in real-time. \
 -User authentication: Users can sign up and log in to the chat app securely using Firebase Authentication. \
