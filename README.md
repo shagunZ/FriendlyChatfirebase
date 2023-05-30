@@ -39,6 +39,10 @@ To use Firebase in your project, you need to configure it with your Firebase pro
 </script>
 ```
 
+# To run locally \
+-firebase serve --only hosting in one terminal \
+-npm run start in other terminal
+
 This folder contains the starting code for the [Firebase: Build a Real Time Web Chat App Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
 If you'd like to jump directly to the end and see the finished code head to the [web](../web) directory.
 
